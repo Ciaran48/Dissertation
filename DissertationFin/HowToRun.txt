@@ -1,0 +1,9 @@
+	1.Install Anaconda https://docs.anaconda.com/anaconda/navigator/install/
+
+			2. Launch Anaconda Navigator
+
+			3. Launch JupyterNotebook
+
+			4. Locate the file 'Dissertation.ipynb'
+
+			5. Open the file 
